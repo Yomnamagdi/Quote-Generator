@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Poetsen+One&display=swap');
+
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+}
+
+h1 {
+      font-family: "Poetsen One", sans-serif;
+      font-size: 80px;
+}
+
+p {
+      font-size: 25px;
+      font-family: "Domine", serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+}
+
+button {
+      width: 150px;
+      height: 40px;
+      background-color: blue;
+      color: white;
+  }
+  button:hover{
+      background-color: green;
+  }
+
+div {
+      text-align: center;
+}
